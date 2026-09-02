@@ -4,7 +4,7 @@ Adaptive Systems explores how machine-learning systems can remain reliable in ch
 
 The project starts with multivariate time-series anomaly detection and progressively extends the system with distribution-drift monitoring, adaptive model updates, and a tool-using AI agent for incident investigation.
 
-## Objectives
+## Objective
 
 The project studies two main questions:
 
